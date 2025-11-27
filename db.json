@@ -1,11 +1,4 @@
-[
-  {
-    "token": "8330983481:AAFFR3SRgyIB-ry7fdqMo8x-xJvHPN6wJTE",
-    "timestamp": "2025-11-16T14:25:27.836Z",
-    "from": 7805174357,
-    "user": {
-      "id": 7805174357,
-      "username": "Kejuofficial"
-    }
-  }
-]
+{
+  "8330983481:AAFFR3SRgyIB-ry7fdqMo8x-xJvHPN6wJTE": true,
+  "8286959478:AAE5dSjdBibZ25xjYXZ230HSZth_odKX2_g":true
+}
